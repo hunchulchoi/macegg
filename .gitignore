@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+*.egg
+.DS_Store
